@@ -6,7 +6,6 @@
         "laminas",
         "stdlib"
     ],
-    "version": "3.13.0",
     "homepage": "https://laminas.dev",
     "support": {
         "docs": "https://docs.laminas.dev/laminas-stdlib/",
